@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <!--
+        <listeners>
+            <listener class-name="main.java.com.learnvest.listener.TestsListenerAdapter" />
+        </listeners>
+
+        <test name="Login test">
+            <classes>
+                <class name="main.java.com.learnvest.testcases.LoginTest" />
+            </classes>
+        </test>
+
+        <test name="Signup test">
+            <classes>
+                <class name="main.java.com.learnvest.testcases.ResetPasswordTest" />
+            </classes>
+        </test>
+    -->
+
+</suite>

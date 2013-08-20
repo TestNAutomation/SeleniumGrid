@@ -1,4 +1,4 @@
-package com.sayem;
+package main.java.com.sayem;
 
 /**
  * Hello world!

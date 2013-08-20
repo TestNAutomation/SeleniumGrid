@@ -1,4 +1,4 @@
-package com.sayem;
+package test.java.com.sayem;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

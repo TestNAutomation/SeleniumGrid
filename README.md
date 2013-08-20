@@ -1,2 +1,1 @@
-SeleniumGrid
-============
+This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
